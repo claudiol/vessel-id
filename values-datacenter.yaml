@@ -20,7 +20,6 @@ clusterGroup:
     csv: advanced-cluster-management.v2.3.2
 
   - name: opendatahub-operator
-    namespace: openshift-operators
     source: community-operators
     csv: opendatahub-operator.v1.1.2
 
