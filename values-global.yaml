@@ -1,7 +1,7 @@
 global:
   pattern: vessel-id
   options:
-    useCSV: True
+    useCSV: False
     syncPolicy: Manual
     installPlanApproval: Automatic
 
